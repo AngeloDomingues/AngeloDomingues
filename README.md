@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngeloDomingues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Ferramenta%20mais%20usada" height="154" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas em Trasição de Carreira.</h2>
 
 ###
@@ -46,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngeloDomingues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Ferramenta%20mais%20usada" height="154" alt="languages graph"  />
 </div>
 
 ###
